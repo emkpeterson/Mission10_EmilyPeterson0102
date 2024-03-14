@@ -1,0 +1,6 @@
+@Mission10_EmilyPeterson0102_HostAddress = http://localhost:5062
+
+GET {{Mission10_EmilyPeterson0102_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
